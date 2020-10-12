@@ -40,6 +40,15 @@
         "page": "dashboard.html",
         "open_in_tab": true
     },
+    "commands": {
+      "whitelist-all-but-cookies": {
+        "suggested_key": {
+          "default": "Ctrl+Shift+M",
+          "mac": "Command+Shift+M"
+        },
+        "description": "Whitelist all but cookies"
+      }
+    },
     "permissions": [
         "browsingData",
         "cookies",
